@@ -1,1 +1,1 @@
-# LiverPatientAnalysis
+Indian Liver Patient Dataset (ILPD) from the UCI Machine Learning Repository. Perform feature engineering, data preprocessing, dimensionality reduction, and logistic regression to predict whether a patient has liver disease. 
