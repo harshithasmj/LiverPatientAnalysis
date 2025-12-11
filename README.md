@@ -1,25 +1,4 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: default
-    language: python
-    name: default
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.10.4
-  nbformat: 4
-  nbformat_minor: 0
----
 
-::: {.cell .markdown id="KDaFHCrPg7Kv"}
 # **Overview**
 
 Indian Liver Patient Dataset (ILPD) from the [UCI Machine Learning
